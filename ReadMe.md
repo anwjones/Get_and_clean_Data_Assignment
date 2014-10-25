@@ -1,7 +1,4 @@
----
-title: "Readme"
-output: html_document
----
+###README
 
 The run_analysis.R file is an R script that takes the raw inertial data collected from the smartphones of volunteers performing various activities and creates two tidy data sets from this data.
 
